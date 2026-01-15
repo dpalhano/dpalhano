@@ -1,4 +1,4 @@
-Hey there 👋 I am Daniel Palhano
+## Hey there 👋 I am Daniel Palhano ##
 
 - 🔭 Looking to branch out of current job to start my career.
 - 🌱 Currently finishing up my last courses relating to IT and how to utilize it in a professional environment.
